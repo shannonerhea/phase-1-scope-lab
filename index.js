@@ -5,6 +5,10 @@ var customerName = "bob";
 
 //upperCaseCustomerName(): Write a function that accesses that global 
 //customerName variable, and uppercases it.
+// use toUpperCase()
+function upperCaseCustomerName() {
+    return customerName.toUpperCase();
+};
 
 
 /**setBestCustomer(): Write a function that when called, 
