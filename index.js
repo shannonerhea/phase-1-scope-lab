@@ -1,6 +1,6 @@
 //customerName: Declare a variable in global scope 
 //called customerName using the var keyword and assign it the value 'bob'.
-
+var customerName = "bob";
 
 
 //upperCaseCustomerName(): Write a function that accesses that global 
